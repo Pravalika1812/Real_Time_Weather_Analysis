@@ -24,9 +24,9 @@ schema = StructType() \
 
 # Snowflake connection options
 sfOptions = {
-    "sfURL": "QQWBYUC-QCB49551.snowflakecomputing.com",  # Ex: xy12345.us-east-1
-    "sfUser": "snowpravi",
-    "sfPassword": "Pravalika@1812",
+    "sfURL": "Your account.snowflakecomputing.com",  # Ex: xy12345.us-east-1
+    "sfUser": "Username",
+    "sfPassword": "Password",
     "sfDatabase": "WEATHER_DB",
     "sfSchema": "WEATHER_SCHEMA",
     "sfWarehouse": "WEATHER_WH",
